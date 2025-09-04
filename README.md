@@ -1,4 +1,4 @@
-# Zsh FZF History Viewer
+# Zsh History Viewer
 
 ## Overview
 
