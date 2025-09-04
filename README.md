@@ -74,10 +74,10 @@ The script will automatically detect your environment (Oh My Zsh or standard Zsh
 ## Images
 
 - ### Menu
-    [](images/main-example.png)
+    ![](images/main-example.png)
 - ### Searching
-    [](images/searching-example.png)
+    ![](images/searching-example.png)
 - ### Selecting Multiple Commands
-    [](images/multiple-commands-example.png)
+    ![](images/multiple-commands-example.png)
 
 
